@@ -10,6 +10,7 @@ konngo
 
 ### 最新
 
+* [Archlinux出现的问题解决](http://blog.konngo.cn/articles/2019/06/11/1560240231478.html)
 * [我在 GitHub 上的开源项目](http://blog.konngo.cn/my-github-repos)
 
 
