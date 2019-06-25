@@ -10,6 +10,7 @@ konngo
 
 ### 最新
 
+* [1](http://blog.konngo.cn/articles/2019/06/24/1561370605492.html)
 * [我常去的网站  [置顶]](http://blog.konngo.cn/my-links-website)
 * [Windows系统快捷打开软件](http://blog.konngo.cn/articles/2019/06/12/1560305951731.html)
 * [windows系统linux子系统的安装卸载](http://blog.konngo.cn/articles/2019/06/11/1560242153673.html)
