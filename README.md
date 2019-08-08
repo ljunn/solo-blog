@@ -10,6 +10,7 @@ pengljun 的个人博客
 
 ### 最新
 
+* [About](https://blog.konngo.cn/solo/my-self-introduce)
 * [ssr搭建](https://blog.konngo.cn/solo/articles/2019/07/01/1561960972309.html)
 * [Windows系统快捷打开软件](https://blog.konngo.cn/solo/articles/2019/06/12/1560305951731.html)
 * [windows系统linux子系统的安装卸载](https://blog.konngo.cn/solo/articles/2019/06/11/1560242153673.html)
