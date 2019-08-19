@@ -10,7 +10,6 @@ pengljun 的个人博客
 
 ### 最新
 
-* [如何分辨假后台](https://blog.konngo.cn/solo/articles/2019/08/17/1566022601267.html)
 * [About](https://blog.konngo.cn/solo/my-self-introduce)
 * [ssr搭建](https://blog.konngo.cn/solo/articles/2019/07/01/1561960972309.html)
 * [Windows系统快捷打开软件](https://blog.konngo.cn/solo/articles/2019/06/12/1560305951731.html)
