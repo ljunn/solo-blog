@@ -10,17 +10,17 @@ konngo
 
 ### 最新
 
-* [ssr搭建](https://blog.konngo.cn:8086/solo/articles/2019/07/01/1561960972309.html)
-* [Windows系统快捷打开软件](https://blog.konngo.cn:8086/solo/articles/2019/06/12/1560305951731.html)
-* [windows系统linux子系统的安装卸载](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560242153673.html)
-* [Vim 目录树](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560241924626.html)
-* [VB语言操作Excel](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560241775522.html)
-* [Ubuntu 执行 apt update 更新时报错](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560241654637.html)
-* [mircoservices(微服务)](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560241487915.html)
-* [maven打包出现错误](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560241188256.html)
-* [maven+tomcat 热部署](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560241099787.html)
-* [Enterprise Design Thinking ](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560240949046.html)
-* [Archlinux出现的问题解决](https://blog.konngo.cn:8086/solo/articles/2019/06/11/1560240231478.html)
+* [ssr搭建](https://blog.konngo.cn/solo/articles/2019/07/01/1561960972309.html)
+* [Windows系统快捷打开软件](https://blog.konngo.cn/solo/articles/2019/06/12/1560305951731.html)
+* [windows系统linux子系统的安装卸载](https://blog.konngo.cn/solo/articles/2019/06/11/1560242153673.html)
+* [Vim 目录树](https://blog.konngo.cn/solo/articles/2019/06/11/1560241924626.html)
+* [VB语言操作Excel](https://blog.konngo.cn/solo/articles/2019/06/11/1560241775522.html)
+* [Ubuntu 执行 apt update 更新时报错](https://blog.konngo.cn/solo/articles/2019/06/11/1560241654637.html)
+* [mircoservices(微服务)](https://blog.konngo.cn/solo/articles/2019/06/11/1560241487915.html)
+* [maven打包出现错误](https://blog.konngo.cn/solo/articles/2019/06/11/1560241188256.html)
+* [maven+tomcat 热部署](https://blog.konngo.cn/solo/articles/2019/06/11/1560241099787.html)
+* [Enterprise Design Thinking ](https://blog.konngo.cn/solo/articles/2019/06/11/1560240949046.html)
+* [Archlinux出现的问题解决](https://blog.konngo.cn/solo/articles/2019/06/11/1560240231478.html)
 
 
 
