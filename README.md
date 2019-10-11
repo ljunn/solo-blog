@@ -10,6 +10,7 @@ konngo
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://blog.konngo.cn/solo/my-github-repos)
 * [ssr搭建](https://blog.konngo.cn/solo/articles/2019/07/01/1561960972309.html)
 * [Windows系统快捷打开软件](https://blog.konngo.cn/solo/articles/2019/06/12/1560305951731.html)
 * [windows系统linux子系统的安装卸载](https://blog.konngo.cn/solo/articles/2019/06/11/1560242153673.html)
