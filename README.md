@@ -10,6 +10,7 @@ konngo
 
 ### 最新
 
+* [顾城的诗，顾城的句](https://blog.konngo.cn/solo/articles/2019/10/19/1571455168780.html)
 * [我在 GitHub 上的开源项目](https://blog.konngo.cn/solo/my-github-repos)
 * [ssr搭建](https://blog.konngo.cn/solo/articles/2019/07/01/1561960972309.html)
 * [Windows系统快捷打开软件](https://blog.konngo.cn/solo/articles/2019/06/12/1560305951731.html)
