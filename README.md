@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [1](https://blog.konngo.cn/solo/articles/2019/11/04/1572876578198.html)
 * [友情链接](https://blog.konngo.cn/solo/my-friend)
 * [顾城的诗，顾城的句](https://blog.konngo.cn/solo/articles/2019/10/19/1571455168780.html)
 * [我在 GitHub 上的开源项目](https://blog.konngo.cn/solo/my-github-repos)
